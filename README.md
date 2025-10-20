@@ -39,5 +39,4 @@ A neural network weights sensor innovations between 0 and 1 based on attack prob
 [1] Le Liu, Xudong Zhao, Bohui Wang, Yuanqing Wu & Wei Xing,  
 *Event-triggered state estimation for cyber-physical systems with partially observed injection attacks.*
 
-## License
-This project is licensed under the MIT License.
+
